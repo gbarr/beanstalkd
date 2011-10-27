@@ -1,6 +1,6 @@
 # System configuration for the beanstalkd daemon
 
-# Available options correspond to the options to the 
+# Available options correspond to the options to the
 # beanstalkd commandline.
 
 BEANSTALKD_ADDR=0.0.0.0

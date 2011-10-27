@@ -11,7 +11,7 @@ Summary:        A fast, distributed, in-memory workqueue service
 Group:          System Environment/Daemons
 License:        GPLv3+
 URL:            http://xph.us/software/%{name}/
-Source0:        http://xph.us/software/%{name}/rel/%{name}-%{version}.tar.gz 
+Source0:        http://xph.us/software/%{name}/rel/%{name}-%{version}.tar.gz
 
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildRequires:   libevent-devel
